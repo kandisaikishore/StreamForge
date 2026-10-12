@@ -1,5 +1,10 @@
 # StreamForge
 
+## Live Demo / Deployment URL
+
+**Deployment URL:** Not verified yet. Add the confirmed public application URL here after checking the live service. The GitHub repository link is not a deployment URL.
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/saikishore2410/StreamForge) [![Issues](https://img.shields.io/github/issues/saikishore2410/StreamForge)](https://github.com/saikishore2410/StreamForge/issues) [![Last Commit](https://img.shields.io/github/last-commit/saikishore2410/StreamForge)](https://github.com/saikishore2410/StreamForge/commits/main)
 
 > An application starter for a streaming-oriented product concept.
